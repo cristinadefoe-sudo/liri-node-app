@@ -77,7 +77,7 @@ To see LIRI Bot in action, run the following in your command line:
 
 ## Author
 
-* **Cristina Defoe** - (https://github.com/cristinadefoe)
+* **Cristina Defoe** 
 
 ## Acknowledgments
 
